@@ -1,0 +1,2 @@
+# pasta-nova
+itens aleatorios
